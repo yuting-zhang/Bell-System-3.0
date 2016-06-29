@@ -1,0 +1,102 @@
+Reading
+Begin
+D:\sample music\DEAR COCOA GIRLS.mp3
+Reading
+End
+D:\sample music\ぽっぴっぽー.mp3
+Maths
+Begin
+D:\sample music\Innocence.mp3
+Maths
+End
+D:\sample music\Innocence.mp3
+L&S
+Begin
+D:\sample music\ダブルラリアット.mp3
+L&S
+End
+D:\sample music\DEAR COCOA GIRLS.mp3
+Chinese
+Begin
+D:\sample music\Innocence.mp3
+Chinese
+End
+D:\sample music\Packaged.mp3
+Writing
+Begin
+D:\sample music\FROM Y TO Y.mp3
+Writing
+End
+F:\其他音乐\TouHou\BA.mp3
+Chemistry
+Begin
+D:\sample music\Packaged.mp3
+Chemistry
+End
+D:\sample music\Innocence.mp3
+PE
+Begin
+D:\sample music\DEAR COCOA GIRLS.mp3
+PE
+End
+D:\sample music\The secret garden.mp3
+Business
+Begin
+D:\sample music\DEAR COCOA GIRLS.mp3
+Business
+End
+D:\sample music\DEAR COCOA GIRLS.mp3
+Computer Science
+Begin
+D:\sample music\Innocence.mp3
+Computer Science
+End
+D:\sample music\ぽっぴっぽー.mp3
+Study Class
+Begin
+D:\sample music\Ievan Polkka.mp3
+Study Class
+End
+D:\sample music\こっち向いて.mp3
+Physics
+Begin
+D:\sample music\ぽっぴっぽー.mp3
+Physics
+End
+D:\sample music\ぽっぴっぽー.mp3
+ESL
+Begin
+D:\sample music\Innocence.mp3
+ESL
+End
+D:\sample music\こっち向いて.mp3
+Social Science
+Begin
+D:\sample music\Dear.mp3
+Social Science
+End
+D:\sample music\こっち向いて.mp3
+Geography
+Begin
+D:\sample music\Dear.mp3
+Geography
+End
+D:\sample music\The secret garden .mp3
+History
+Begin
+D:\sample music\Dear.mp3
+History
+End
+D:\sample music\DEAR COCOA GIRLS.mp3
+Biology
+Begin
+D:\sample music\Innocence.mp3
+Biology
+End
+D:\sample music\こっち向いて.mp3
+Music
+Begin
+D:\sample music\FROM Y TO Y.mp3
+Music
+End
+D:\sample music\こっち向いて.mp3
